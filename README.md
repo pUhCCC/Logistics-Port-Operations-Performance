@@ -16,7 +16,7 @@ This project evaluates the operational performance and SLA compliance of 49,800 
 **[Vietnamese Version]**
 Dự án đánh giá hiệu suất vận hành và mức độ tuân thủ SLA của 49.800 chuyến hàng qua 4 cảng lớn. Thời gian xử lý trung bình toàn hệ thống là 23.51 giờ. Phân tích chuyên sâu đã chỉ ra các nút thắt đe dọa nguồn thu biên lợi nhuận cao.
 
-*   **Phát hiện 1 (Nghịch lý SLA):** Tỷ lệ trễ hẹn của nhóm khách hàng Premium (12.18%) cao hơn Standard (11.72%), gây rủi ro rời bỏ ở tệp khách hàng giá trị cao[cite: 6].
+*   **Phát hiện 1 (Nghịch lý SLA):** Tỷ lệ trễ hẹn của nhóm khách hàng Premium (12.18%) cao hơn Standard (11.72%), gây rủi ro rời bỏ ở tệp khách hàng giá trị cao.
 *   **Phát hiện 2 (Nút thắt vận hành):** Cảng Cát Lái có thời gian xử lý cao hơn mức trung bình. Sự quá tải hạ tầng này là nguyên nhân chính đẩy tỷ lệ trễ của nhóm Premium lên cao.
 *   **Phát hiện 3 (Rủi ro tài chính):** Ngành Tech và Retail nhóm Premium chiếm tỷ trọng chi phí logistics rất lớn (trên tổng 42.16 triệu USD). Việc trễ chuyến đe dọa trực tiếp đến mô hình chuỗi cung ứng Just-In-Time (JIT) của họ.
 
